@@ -50,3 +50,33 @@ This application was specifically developed to help **CREOTEC Philippines Inc.**
 The compiled Android application (.apk file) is available in this repository for direct installation on Android devices.
 
 > **Note:** This app is built for Android devices and requires Android 4.1 (API level 16) or higher.
+
+## ✨ Features
+
+Based on the application documentation, Creo-Time includes:
+
+- **👤 Create Personal Profile**: Users can set up and manage their own employee profiles
+- **⏱️ Time In/Out Recording**: Simple interface to record arrival and departure times
+- **📊 Daily Time Record**: View and track daily working hours and attendance patterns
+- **🔒 Secure Data Storage**: Local data storage with privacy protection
+- **📱 Mobile-Optimized**: Designed specifically for Android mobile devices
+- **🎯 Essential Information Focus**: Clean interface showing only the most important time tracking data
+
+## 🛠️ Built With
+
+**Development Platform:**
+- [MIT App Inventor](http://appinventor.mit.edu/) - Visual programming platform for mobile apps
+
+**Target Platform:**
+- Android (APK compilation)
+- Minimum Android API Level 16+
+
+**Development Approach:**
+- Visual block-based programming
+- Drag-and-drop interface design
+- No traditional coding required
+
+**Data Storage:**
+- Local device storage (TinyDB component)
+- No external database required
+
