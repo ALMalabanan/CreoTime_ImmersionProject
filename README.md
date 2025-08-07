@@ -138,3 +138,16 @@ Based on the application documentation, Creo-Time includes:
 - Access profile settings within the app
 - Update personal information as needed
 - View historical time records
+
+## 📁 Repository Contents
+
+```
+creo-time/
+├── Creo-Time.apk              # Compiled Android application
+├── Creo-Time.aia             # MIT App Inventor project file
+├── About and privacy.pdf     # App information and privacy policy
+├── About this app(Creo-Time).pdf  # Application description
+├── CREOTIME User's Guide.pdf # User manual and instructions
+├── README.md                 # This documentation file
+└── LICENSE                   # License information
+```
