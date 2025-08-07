@@ -204,3 +204,22 @@ creo-time/
 - [ ] Manager approval workflows
 - [ ] Payroll system integration
 
+## 🔐 Privacy & Security
+
+Based on the privacy policy included in this repository:
+
+**Data Collection:**
+- Personal information collected only for app functionality
+- Data used for providing and improving the service
+- No sharing with third parties except as described in privacy policy
+
+**Cookies:**
+- App uses cookies for service improvement
+- Users can choose to accept or refuse cookies
+- Some features may be limited if cookies are refused
+
+**Security:**
+- Commercially acceptable means used to protect personal information
+- No method of transmission is 100% secure
+- Local device storage provides additional privacy protection
+
