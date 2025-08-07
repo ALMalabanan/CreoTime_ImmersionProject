@@ -18,10 +18,8 @@
 - [How to Import Project](#how-to-import-project)
 - [Known Limitations](#known-limitations)
 - [Future Improvements](#future-improvements)
-- [Privacy & Security](#privacy--security)
 - [Credits](#credits)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## 📖 About 
 
@@ -223,3 +221,17 @@ Based on the privacy policy included in this repository:
 - No method of transmission is 100% secure
 - Local device storage provides additional privacy protection
 
+## 🙏 Credits
+
+### Development
+- **Batch 1 Work Immersion** - Original concept, development, and implementation
+- **MIT App Inventor** - Development platform and tools
+
+### Documentation
+- Application documentation and user guides
+- Privacy policy and terms of service
+- Technical specifications
+
+### Platform
+- MIT Massachusetts Institute of Technology - App Inventor platform
+- Google - Android platform support
