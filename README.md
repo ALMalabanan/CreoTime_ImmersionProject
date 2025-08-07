@@ -108,3 +108,20 @@ Based on the application documentation, Creo-Time includes:
    - Click "Projects" → "Import project (.aia) from my computer"
    - Select the `Creo-Time.aia` file from this repository
    - Wait for import to complete
+
+## 📖 Usage
+
+### Getting Started
+
+1. **Install the App**
+   - Install the APK file on your Android device
+   - Launch the Creo-Time application
+
+2. **Create Your Profile**
+   - Open the app for the first time
+   - Set up your employee profile with required information
+
+3. **Daily Time Tracking**
+   - Use the "Time In" feature when starting work
+   - Use "Time Out" feature when ending work
+   - View your daily time records in the app
