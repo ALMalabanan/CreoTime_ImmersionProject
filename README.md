@@ -171,3 +171,19 @@ creo-time/
    - Edit blocks and design as needed
    - Test using the MIT App Inventor emulator or AI Companion
    - Build new APK when ready to deploy
+
+## ⚠️ Known Limitations
+
+**MIT App Inventor Constraints:**
+- Android-only platform (no iOS version)
+- Limited to MIT App Inventor's built-in components
+- Local storage only (no cloud sync)
+- Basic UI design options
+- No advanced authentication systems
+
+**Application-Specific:**
+- Requires manual time entry (no automatic GPS tracking)
+- Data stored locally on device only
+- Limited reporting capabilities
+- No multi-user management system
+- Basic export options
