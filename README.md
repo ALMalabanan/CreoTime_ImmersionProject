@@ -125,3 +125,16 @@ Based on the application documentation, Creo-Time includes:
    - Use the "Time In" feature when starting work
    - Use "Time Out" feature when ending work
    - View your daily time records in the app
+
+### Basic Workflow
+
+**Daily Operations:**
+- Open Creo-Time app
+- Record time in at start of workday
+- Record time out at end of workday
+- Review daily time record summary
+
+**Profile Management:**
+- Access profile settings within the app
+- Update personal information as needed
+- View historical time records
