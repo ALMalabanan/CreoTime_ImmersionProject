@@ -41,3 +41,12 @@ This application was specifically developed to help **CREOTEC Philippines Inc.**
 - Simple interface suitable for all age groups
 - Cost-effective solution built with visual programming
 
+## 🎬 Demo
+
+### Screenshots
+*Screenshots will be added once available*
+
+### APK Download
+The compiled Android application (.apk file) is available in this repository for direct installation on Android devices.
+
+> **Note:** This app is built for Android devices and requires Android 4.1 (API level 16) or higher.
