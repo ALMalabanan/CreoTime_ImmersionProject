@@ -22,3 +22,22 @@
 - [Credits](#credits)
 - [License](#license)
 - [Contact](#contact)
+
+## 📖 About
+
+Creo-Time is an employee time tracking mobile application developed using **MIT App Inventor**. It provides a fast, easy-to-use, and secure solution for recording employee working hours and managing daily time records. 
+
+This application was specifically developed to help **CREOTEC Philippines Inc.** monitor and record employee time-in and time-out data as an alternative to traditional paper-based daily time recording systems.
+
+**Who is it for?**
+- Small businesses transitioning from manual time tracking
+- Companies looking for simple digital attendance solutions
+- Organizations needing basic employee time monitoring
+- Educational institutions teaching mobile app development
+
+**Why is it useful?**
+- Eliminates paper-based attendance systems
+- Provides easy access to time records
+- Simple interface suitable for all age groups
+- Cost-effective solution built with visual programming
+
