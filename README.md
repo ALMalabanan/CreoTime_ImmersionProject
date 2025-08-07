@@ -151,3 +151,23 @@ creo-time/
 ├── README.md                 # This documentation file
 └── LICENSE                   # License information
 ```
+## 🔄 How to Import Project
+
+### For MIT App Inventor Developers
+
+1. **Download Project File**
+   ```
+   Download the Creo-Time.aia file from this repository
+   ```
+
+2. **Import to MIT App Inventor**
+   - Log into MIT App Inventor
+   - Go to "Projects" menu
+   - Select "Import project (.aia) from my computer"
+   - Choose the downloaded .aia file
+   - Click "OK" to import
+
+3. **Modify and Customize**
+   - Edit blocks and design as needed
+   - Test using the MIT App Inventor emulator or AI Companion
+   - Build new APK when ready to deploy
