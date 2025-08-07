@@ -187,3 +187,20 @@ creo-time/
 - Limited reporting capabilities
 - No multi-user management system
 - Basic export options
+
+  ## 🔮 Future Improvements
+
+### Possible Enhancements (within MIT App Inventor)
+- [ ] Add reminder notifications using Notifier component
+- [ ] Implement data backup to Google Sheets
+- [ ] Add photo capture for time entries using Camera component
+- [ ] Include location services using LocationSensor
+- [ ] Add email export functionality using ActivityStarter
+
+### Advanced Features (requiring migration)
+- [ ] Cloud database integration
+- [ ] Multi-platform support (iOS)
+- [ ] Advanced reporting dashboard
+- [ ] Manager approval workflows
+- [ ] Payroll system integration
+
