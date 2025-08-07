@@ -23,7 +23,7 @@
 - [License](#license)
 - [Contact](#contact)
 
-## 📖 About
+## 📖 About (#about)
 
 Creo-Time is an employee time tracking mobile application developed using **MIT App Inventor**. It provides a fast, easy-to-use, and secure solution for recording employee working hours and managing daily time records. 
 
