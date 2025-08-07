@@ -23,7 +23,7 @@
 - [License](#license)
 - [Contact](#contact)
 
-## 📖 About (#about)
+## 📖 About 
 
 Creo-Time is an employee time tracking mobile application developed using **MIT App Inventor**. It provides a fast, easy-to-use, and secure solution for recording employee working hours and managing daily time records. 
 
@@ -80,3 +80,31 @@ Based on the application documentation, Creo-Time includes:
 - Local device storage (TinyDB component)
 - No external database required
 
+## 📱 Installation
+
+### For End Users (APK Installation)
+
+1. **Download APK**
+   ```
+   Download the Creo-Time.apk file from this repository
+   ```
+
+2. **Enable Unknown Sources**
+   - Go to Android Settings → Security
+   - Enable "Unknown sources" or "Install unknown apps"
+   
+3. **Install Application**
+   - Locate the downloaded APK file
+   - Tap to install
+   - Follow installation prompts
+
+### For Developers (MIT App Inventor)
+
+1. **Access MIT App Inventor**
+   - Visit [http://appinventor.mit.edu/](http://appinventor.mit.edu/)
+   - Sign in with your Google account
+
+2. **Import Project**
+   - Click "Projects" → "Import project (.aia) from my computer"
+   - Select the `Creo-Time.aia` file from this repository
+   - Wait for import to complete
