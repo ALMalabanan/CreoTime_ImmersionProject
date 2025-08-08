@@ -8,17 +8,17 @@
 
 ## 📋 Table of Contents
 
-- [About](#about)
-- [Demo](#demo)
-- [Features](#features)
-- [Built With](#built-with)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Repository Contents](#repository-contents)
-- [How to Import Project](#how-to-import-project)
-- [Known Limitations](#known-limitations)
-- [Future Improvements](#future-improvements)
-- [Credits](#credits)
+- [About](#-about)
+- [Demo](#-demo)
+- [Features](#-features)
+- [Built With](#-built-with)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Repository Contents](#-repository-contents)
+- [How to Import Project](#-how-to-import-project)
+- [Known Limitations](#-known-limitations)
+- [Future Improvements](#-future-improvements)
+- [Credits](#-credits)
 
 
 ## 📖 About 
